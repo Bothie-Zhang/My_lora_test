@@ -1,4 +1,7 @@
 # My_lora_test
+# My_lora_test
+Bili:夏桑奶盖 
+Cnblog:克莱比-Kirby
 
    ############如果成功了，记得给我个赞噢########
    
